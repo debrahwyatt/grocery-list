@@ -7,12 +7,16 @@
     "Floss",
     "Toothpaste",
     "Toothbrush",
-    "Childrens Cough Syrup"
+    "Childrens Cough Syrup",
+    "Disposable Razors",
+    "Multi vitamins"
   ],
   "HOUSEWARES": [
     "Forks",
     "Spoons",
-    "Barbecue Lighter"
+    "Barbecue Lighter",
+    "Avocado Keeper",
+    "Dehydrator"
   ],
   "PRODUCE": [
     "Bananas",
@@ -20,7 +24,7 @@
     "Mango",
     "Peanuts",
     "Oranges",
-    "Avacados",
+    "Avocados",
     "Dried Cranberries",
     "Grapefruit",
     "Potatoes",
@@ -36,7 +40,8 @@
     "Corn",
     "Watermelon",
     "Pineapple",
-    "Strawberries"
+    "Strawberries",
+    "Fruit"
   ],
   "CLEANING": [
     "Vim",
@@ -66,7 +71,8 @@
     "Honey Mustard",
     "Ketchup",
     "Mustard",
-    "Relish"
+    "Relish",
+    "Mini Ravioli"
   ],
   "ORIENTAL": [
     "Mr. Noodle",
@@ -108,7 +114,8 @@
     "Sausages",
     "Chicken",
     "Ribs",
-    "Pork Ribs"
+    "Pork Ribs",
+    "Hamburgers"
   ],
   "SNACKS": [
     "Squeezy Pouches",
@@ -117,7 +124,9 @@
     "Ice Cream Cones",
     "Fruit Snakes",
     "Popcorn",
-    "Granola Bars"
+    "Granola Bars",
+    "Goldfish Crackers",
+    "Fish Crackers"
   ],
   "BREAKFAST & MEXICAN": [
     "Maple Syrup",
@@ -140,7 +149,8 @@
     "Corn Poopies",
     "Corn Flakes",
     "Puffed Wheat",
-    "Special K"
+    "Special K",
+    "Nutella"
   ],
   "FROZEN": [
     "Chicken Lasagna",
@@ -152,7 +162,6 @@
     "Pierogies",
     "Chicken Nuggets",
     "Lasagna",
-    "Chicken Lasagna",
     "Frozen Berries",
     "Frozen Juice",
     "Frozen Vegetables"

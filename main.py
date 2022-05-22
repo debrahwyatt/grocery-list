@@ -17,7 +17,7 @@ sList = {}
 f = open('grocery.json')
 json_data = json.load(f)
 f.close()
-  
+
 # Check the list against grocery.json and sort it
 for x in json_data:
   for item in json_data[x]:
