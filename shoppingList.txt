@@ -1,26 +1,31 @@
-1. Hamburger buns
-2. Hamburgers
-3. Avocado keeper
-4. White bread
-5. Oat bread
-6. Goldfish crackers
-7. Disposable razors
-8. Nutella
-9. Avocados
-10. Kids yogurt
-11. Fruit
-12. Waffles
-13. Garbage bags
-14. Dehydrator
-15. Oranges
-16. Multi vitamins
-17. Peppermint tea
-19. Mini ravioli
-20. Bacon
-21. Kielbasa
-22. Mango
-23. Corn chips
-24. Buckley's complete
-25. Chicken lasagna
-26. Milk
-27. Croissants
+1. grapefruit
+2. sausages
+3. fruit snacks
+4. bear paws
+5. cheese pizza
+6. frozen berries
+7. bananas
+8. taco shells
+9. mini wheats
+10. vector
+11. flat of boyardee
+12. flat of alphagetti
+13. salad
+14. sadness water
+15. cheese
+16. onion
+17. tomato
+18. hamburger buns
+19. hamburgers
+20. white bread
+21. oat bread
+23. avocados
+24. oranges
+25. peppermint tea
+26. fish crackers
+27. mango
+28. corn chips
+29. buckley's complete
+30. milk
+31. croissants
+32. lube

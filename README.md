@@ -3,7 +3,7 @@ This is a program that converts Alexa's grocery list to a text document sorted b
 
 ## Run the program
 
-Copy your Alexa list into shoppingList.txt
+Copy your Alexa list directly into shoppingList.txt
 
 Enter `./main.py` into the command line.
 

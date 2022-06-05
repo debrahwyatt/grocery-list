@@ -9,7 +9,9 @@
     "Toothbrush",
     "Childrens Cough Syrup",
     "Disposable Razors",
-    "Multi vitamins"
+    "Multi vitamins",
+    "Lube",
+    "Lubrication"
   ],
   "HOUSEWARES": [
     "Forks",
@@ -41,7 +43,8 @@
     "Watermelon",
     "Pineapple",
     "Strawberries",
-    "Fruit"
+    "Fruit",
+    "Tomato"
   ],
   "CLEANING": [
     "Vim",
@@ -68,6 +71,7 @@
     "Pickled Onions",
     "Flat of Boyardee",
     "Flat of Ravioli",
+    "Flat of Alphagetti",
     "Honey Mustard",
     "Ketchup",
     "Mustard",
@@ -121,12 +125,11 @@
     "Squeezy Pouches",
     "Bear Paws",
     "Fish Crackers",
-    "Ice Cream Cones",
-    "Fruit Snakes",
-    "Popcorn",
-    "Granola Bars",
     "Goldfish Crackers",
-    "Fish Crackers"
+    "Ice Cream Cones",
+    "Fruit Snacks",
+    "Popcorn",
+    "Granola Bars"
   ],
   "BREAKFAST & MEXICAN": [
     "Maple Syrup",
@@ -164,7 +167,8 @@
     "Lasagna",
     "Frozen Berries",
     "Frozen Juice",
-    "Frozen Vegetables"
+    "Frozen Vegetables",
+    "Cheese Pizza"
   ],
   "DAIRY": [
     "Milk",
