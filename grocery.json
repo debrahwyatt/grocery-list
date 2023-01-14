@@ -1,4 +1,18 @@
 {
+  "GARDEN": [
+    "plants",
+    "hanging plants",
+    "wind chime",
+    "sprinkler",
+    "garden hose",
+    "planter trays"
+  ],
+  "HOME": [
+    "drill",
+    "padlock",
+    "humidifier",
+    "measuring cups"
+  ],
   "HEALTH & BEAUTY": [
     "Buckley's Complete",
     "Allergy Medication",
@@ -18,7 +32,23 @@
     "Spoons",
     "Barbecue Lighter",
     "Avocado Keeper",
-    "Dehydrator"
+    "Dehydrator",
+    "Post it Notes",
+    "Notepad",
+    "Notebooks",
+    "Microwave",
+    "Vacuum",
+    "white out",
+    "measuring spoons",
+    "cookie sheets",
+    "chopsticks",
+    "scotch tape",
+    "calendar"
+  ],
+  "ELECTRONICS": [
+    "shrek pods",
+    "google home",
+    "new alexa"
   ],
   "PRODUCE": [
     "Bananas",
@@ -44,7 +74,9 @@
     "Pineapple",
     "Strawberries",
     "Fruit",
-    "Tomato"
+    "Tomato",
+    "Apples",
+    "Bagged Salad"
   ],
   "CLEANING": [
     "Vim",
@@ -57,7 +89,9 @@
     "Detergent",
     "Garbage Bags",
     "Compost Bags",
-    "Black Garbage Bags"
+    "Black Garbage Bags",
+    "kleenex",
+    "paper towel"
   ],
   "CONDIMENTS & SOUPS": [
     "Chicken Noodle Soup",
@@ -67,6 +101,7 @@
     "Ravioli",
     "Sliced Olives",
     "Alphabet Mac and Cheese",
+    "alphabet k. d",
     "Spaghetti Sauce",
     "Pickled Onions",
     "Flat of Boyardee",
@@ -76,13 +111,23 @@
     "Ketchup",
     "Mustard",
     "Relish",
-    "Mini Ravioli"
+    "Mini Ravioli",
+    "Pickles",
+    "oysters",
+    "plum sauce",
+    "macaroni and cheese",
+    "squeezable relish",
+    "kraft dinner",
+    "beef broth",
+    "small pickles"
   ],
   "ORIENTAL": [
     "Mr. Noodle",
     "Stir Fry Sauce",
     "Soy Sauce",
-    "Flat of Mr. Noodle"
+    "Flat of Mr. Noodle",
+    "mister noodles",
+    "mr. noodles"
   ],
   "BAKING & SPICES": [
     "White Sugar",
@@ -94,13 +139,24 @@
     "Brown Gravy",
     "Liquid Honey",
     "Marshmallows",
-    "Cinnamon"
+    "Cinnamon",
+    "Garlic Powder",
+    "Lime Juice",
+    "Lemon Juice",
+    "Almonds",
+    "spaghetti noodles",
+    "chocolate chips",
+    "cayenne pepper"
   ],
   "POP & CHIPS": [
     "Juice Boxes",
     "Corn Chips",
     "Sadness Water",
-    "Soda Water"
+    "Soda Water",
+    "saddest water",
+    "club soda",
+    "nacho chips",
+    "fizzy water"
   ],
   "DELI": [
     "Sliced Ham",
@@ -108,7 +164,9 @@
     "Pepperoni Sticks",
     "Hot Dogs",
     "Kielbasa",
-    "European Weiners"
+    "European Weiners",
+    "sandwich meat",
+    "black forest ham"
   ],
   "MEATS": [
     "Pork Chops",
@@ -129,7 +187,11 @@
     "Ice Cream Cones",
     "Fruit Snacks",
     "Popcorn",
-    "Granola Bars"
+    "Granola Bars",
+    "Digestive Biscuits",
+    "cookies",
+    "sweet salty granola bars",
+    "peanut lovers"
   ],
   "BREAKFAST & MEXICAN": [
     "Maple Syrup",
@@ -153,14 +215,19 @@
     "Corn Flakes",
     "Puffed Wheat",
     "Special K",
-    "Nutella"
+    "Nutella",
+    "Rice Krispies",
+    "chocolate peanut butter spread",
+    "decaf coffee",
+    "rolled oats",
+    "crete mix"
   ],
   "FROZEN": [
     "Chicken Lasagna",
     "Ice Cream",
     "Waffles",
-    "Lime Juice",
     "Lemonade",
+    "Limeaid",
     "Frozen Strawberries",
     "Pierogies",
     "Chicken Nuggets",
@@ -168,7 +235,13 @@
     "Frozen Berries",
     "Frozen Juice",
     "Frozen Vegetables",
-    "Cheese Pizza"
+    "Cheese Pizza",
+    "Chicken Strips",
+    "Vanilla Ice Cream",
+    "Sugar Free Freezies",
+    "freezies",
+    "frozen treats",
+    "chicken tendies"
   ],
   "DAIRY": [
     "Milk",
@@ -180,7 +253,9 @@
     "Eggs",
     "Parmesan Cheese",
     "Kids Yogurt",
-    "Sour Cream"
+    "Sour Cream",
+    "Orange Juice",
+    "White Chocolate Mocha Coffee Creamer"
   ],
   "BAKERY": [
     "Croissants",
@@ -194,6 +269,8 @@
     "Beagles",
     "Muffins",
     "Pita Bread",
-    "Kaiser Bun"
+    "Kaiser Bun",
+    "Bagels",
+    "hot dog buns"
   ]
 }

@@ -42,6 +42,8 @@ for aisle in sList:
       temp[aisle] = sList[aisle]
 sList = temp
 del temp
+
+#TODO: Remove Duplicates
         
 # Save the list to file.
 f = open("sortedShoppingList.txt", "w")
