@@ -8,10 +8,13 @@
     "planter trays"
   ],
   "HOME": [
-    "drill",
-    "padlock",
-    "humidifier",
-    "measuring cups"
+    "Drill",
+    "Padlock",
+    "Humidifier",
+    "Measuring Cups",
+    "Electrical Tape",
+    "Furnace Filter",
+    "Spice Rack"
   ],
   "HEALTH & BEAUTY": [
     "Buckley's Complete",
@@ -25,7 +28,12 @@
     "Disposable Razors",
     "Multi vitamins",
     "Lube",
-    "Lubrication"
+    "Lubrication",
+    "Metamucil",
+    "Children's Multi",
+    "Omega Threes",
+    "Toothbrush Heads",
+    "Kids Probiotics"
   ],
   "HOUSEWARES": [
     "Forks",
@@ -62,6 +70,7 @@
     "Potatoes",
     "Onion",
     "Green Onion",
+    "Green Onions",
     "Garlic",
     "Broccoli",
     "Carrots",
@@ -76,7 +85,11 @@
     "Fruit",
     "Tomato",
     "Apples",
-    "Bagged Salad"
+    "Bagged Salad",
+    "Lettuce"
+  ],
+  "PET": [
+    "Bird Seed"
   ],
   "CLEANING": [
     "Vim",
@@ -98,6 +111,7 @@
     "Tomatoe Soup",
     "H. P. Sauce",
     "Zucker Blood",
+    "Sucker Blood",
     "Ravioli",
     "Sliced Olives",
     "Alphabet Mac and Cheese",
@@ -119,15 +133,18 @@
     "squeezable relish",
     "kraft dinner",
     "beef broth",
-    "small pickles"
+    "small pickles",
+    "Olives"
   ],
   "ORIENTAL": [
     "Mr. Noodle",
     "Stir Fry Sauce",
     "Soy Sauce",
     "Flat of Mr. Noodle",
-    "mister noodles",
-    "mr. noodles"
+    "Mister Noodles",
+    "Mr. Noodles",
+    "Sesame Seeds",
+    "China Lily"
   ],
   "BAKING & SPICES": [
     "White Sugar",
@@ -146,7 +163,11 @@
     "Almonds",
     "spaghetti noodles",
     "chocolate chips",
-    "cayenne pepper"
+    "cayenne pepper",
+    "Coconut Oil",
+    "Cumin",
+    "Flour",
+    "Avocado Oil"
   ],
   "POP & CHIPS": [
     "Juice Boxes",
@@ -166,7 +187,8 @@
     "Kielbasa",
     "European Weiners",
     "sandwich meat",
-    "black forest ham"
+    "black forest ham",
+    "Hotdogs"
   ],
   "MEATS": [
     "Pork Chops",
@@ -191,7 +213,8 @@
     "Digestive Biscuits",
     "cookies",
     "sweet salty granola bars",
-    "peanut lovers"
+    "peanut lovers",
+    "Go Pure Bars"
   ],
   "BREAKFAST & MEXICAN": [
     "Maple Syrup",
@@ -200,6 +223,7 @@
     "Syrup",
     "Taco Shells",
     "Taco Kit",
+    "Tacos",
     "Mint Tea",
     "Peppermint Tea",
     "Lemon Ginger Tea",
@@ -230,6 +254,7 @@
     "Limeaid",
     "Frozen Strawberries",
     "Pierogies",
+    "Perogies",
     "Chicken Nuggets",
     "Lasagna",
     "Frozen Berries",
@@ -241,7 +266,9 @@
     "Sugar Free Freezies",
     "freezies",
     "frozen treats",
-    "chicken tendies"
+    "chicken tendies",
+    "Burger Patties",
+    "Hash Brown Patties"
   ],
   "DAIRY": [
     "Milk",
@@ -255,7 +282,10 @@
     "Kids Yogurt",
     "Sour Cream",
     "Orange Juice",
-    "White Chocolate Mocha Coffee Creamer"
+    "White Chocolate Mocha Coffee Creamer",
+    "Coffee Creamer",
+    "Plain Greek Yogurt",
+    "Caramel Coffee Creamer"
   ],
   "BAKERY": [
     "Croissants",

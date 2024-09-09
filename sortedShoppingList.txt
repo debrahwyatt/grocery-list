@@ -1,56 +1,93 @@
-HOUSEWARES
-scotch tape
-calendar
-chopsticks
+HOME
+Electrical Tape
+Spice Rack
+Furnace Filter
+
+
+HEALTH & BEAUTY
+Children'S Multi
+Kids Probiotics
+Omega Threes
+Toothpaste
+Toothbrush Heads
+Metamucil
 
 
 PRODUCE
-carrots
-bananas
+Bananas
+Garlic
+Lettuce
+Avocados
+Green Onions
+
+
+PET
+Bird Seed
 
 
 CLEANING
-paper towel
+Medium Freezer Bags
 
 
 CONDIMENTS & SOUPS
-beef broth
-ketchup
-small pickles
+Spaghetti Sauce
+Kraft Dinner
+Olives
+Honey Mustard
+Plum Sauce
+Sucker Blood
 
 
 ORIENTAL
-mr. noodles
+Sesame Seeds
+China Lily
+Mr. Noodles
 
 
 BAKING & SPICES
-cayenne pepper
+Avocado Oil
+Flour
+Cumin
+Spaghetti Noodles
+Coconut Oil
+Chocolate Chips
 
 
-POP & CHIPS
-corn chips
-fizzy water
+DELI
+Hotdogs
 
 
 SNACKS
-peanut lovers
-cookies
+Bear Paws
+Fruit Snacks
+Go Pure Bars
 
 
 BREAKFAST & MEXICAN
-taco kit
-crete mix
+Tacos
 
 
 FROZEN
-chicken tendies
+Burger Patties
+Hash Brown Patties
+Perogies
+Waffles
 
 
 DAIRY
-milk
-eggs
+Greek Yogurt
+Butter
+Plain Greek Yogurt
+Caramel Coffee Creamer
+Orange Juice
+Coffee Creamer
+Eggs
+Milk
 
 
-BAKERY
-raisin bread
-oat bread
+UNKNOWN
+Juice
+Sink
+Jaggery
+
+
